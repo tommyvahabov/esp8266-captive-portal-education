@@ -1,0 +1,10 @@
+.DS_Store
+.pio/
+build/
+*.bin
+*.elf
+*.map
+*.o
+*.d
+*.zip
+*.tar.gz
