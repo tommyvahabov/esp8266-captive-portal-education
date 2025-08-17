@@ -1,4 +1,4 @@
-# wifi-captive-portal-esp8266-edu
+# espphish
 
 This repository contains several ESP8266 sketches demonstrating how a captive portal (Wi-Fi AP + DNS redirection + simple web forms) works.
 
