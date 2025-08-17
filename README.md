@@ -1,4 +1,4 @@
-# ESP8266 Captive Portal Examples (Educational Only)
+# wifi-captive-portal-esp8266-edu
 
 This repository contains several ESP8266 sketches demonstrating how a captive portal (Wi-Fi AP + DNS redirection + simple web forms) works.
 
